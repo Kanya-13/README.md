@@ -2,7 +2,7 @@
 Basic Network Scan with Nmap
 
  Date: July 3, 2025
- Author: Kanya
+ Author: Kanyalaksmi P
 
 Objective
 Perform a basic network scan using **Nmap** to detect open ports and services.
